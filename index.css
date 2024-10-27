@@ -1,5 +1,5 @@
-* {
-    background-color: rgb(214, 137, 36);
+body{
+    margin: 0;
 }
 
 .heading {
@@ -11,4 +11,14 @@
 
 #heading2{
     background-color: beige;
+}
+
+.container{
+    display: flex;
+    gap: 10px;
+}
+
+#indise{
+    padding: 5px;
+    background-color: aqua;
 }
